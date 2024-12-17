@@ -1,0 +1,23 @@
+.inputs{
+    margin-left: 22%;
+    margin-top: 80px;
+}
+.inputs input{
+    height: 35px;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.inputs button{
+font-size: 25px;
+padding-bottom: 5px;
+color: black;
+border: 2px solid black;
+border-radius: 5px;
+}
+
+.buttons button {
+    margin: 10px;
+}
